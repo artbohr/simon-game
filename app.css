@@ -1,0 +1,60 @@
+#cnt {
+  margin-top: 20px;
+  background-color: #f2f0e6;
+  border: 2px solid;
+  border-radius: 80%;
+  width: 500px;
+}
+
+#title {
+  font-family: "Inconsolata", monospace;
+  margin: 20px;
+}
+
+h3 {
+  margin: auto;
+  border: 2px solid;
+  width: 100px;
+}
+
+#rules {
+  font-family: "Inconsolata", monospace;
+  margin-top: 50px;
+  text-align: center;
+}
+
+#menu {
+  margin: 20px;
+}
+
+#playButtons {
+  padding-top: 10px;
+}
+
+button {
+  width: 80px;
+  height: 50px;
+}
+
+#red {
+  background-color: #cb6d51;
+}
+#blue {
+  background-color: #5f9ea0;
+}
+#yellow {
+  background-color: #dde26a;
+}
+#green {
+  background-color: #7bb661;
+}
+
+#start {
+  font-family: "Inconsolata", monospace;
+  color: green;
+}
+
+#strict {
+  font-family: "Inconsolata", monospace;
+  color: red;
+}

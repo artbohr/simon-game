@@ -1,4 +1,5 @@
 # Classic Simon Game
+Rules: https://en.wikipedia.org/wiki/Simon_(game)
 
 ## Live Demo
 https://artbohr.github.io/simon-game/
